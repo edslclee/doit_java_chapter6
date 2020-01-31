@@ -17,7 +17,10 @@ public class Student {
 	//그래서 Getter 정의
 
 	public static int getSerialNumber() {
+		
 		return serialNumber;
+		
 	}
 
+	 	
 }
